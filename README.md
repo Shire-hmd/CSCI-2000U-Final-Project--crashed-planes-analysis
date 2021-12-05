@@ -3,6 +3,7 @@
 ### About Us
 - Wahid Popal Ali Ahmad Popal
 - Fardin Alam
+- Ahmed Shire
 - GetHub repository: CSCI-2000U-Final-Project-crashed-planes-analysis
 
 ### Introduction
